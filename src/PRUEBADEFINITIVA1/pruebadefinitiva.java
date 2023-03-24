@@ -6,6 +6,7 @@ public class pruebadefinitiva {
 		System.out.println("perro");
 		System.out.println("gato");
 		System.out.println("pato");
+		System.out.println("cerdo");
 	}
 
 }
